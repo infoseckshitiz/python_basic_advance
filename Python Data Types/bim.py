@@ -1,0 +1,5 @@
+kg = float(input("Enter the weight in kg ? "))
+m = float(input("Enter the weight in meter? "))
+bim = (kg / m ** 2)
+bim = int(bim)
+print(bim)
