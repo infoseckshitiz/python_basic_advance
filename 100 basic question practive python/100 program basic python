@@ -1,0 +1,100 @@
+Write a program to print "Hello, World!".
+Write a program to find the sum of two numbers.
+Write a program to find the product of two numbers.
+Write a program to swap two numbers.
+Write a program to check if a number is even or odd.
+Write a program to check if a number is positive, negative, or zero.
+Write a program to find the largest of three numbers.
+Write a program to check if a year is a leap year.
+Write a program to check if a character is a vowel or consonant.
+Write a program to find the factorial of a number.
+Write a program to check if a number is a prime number.
+Write a program to print the Fibonacci sequence.
+Write a program to find the sum of natural numbers up to n.
+Write a program to find the factorial of a number using recursion.
+Write a program to check if a string is a palindrome.
+Write a program to count the number of vowels in a string.
+Write a program to find the reverse of a number.
+Write a program to check if a string is an anagram of another string.
+Write a program to convert Celsius to Fahrenheit.
+Write a program to find the sum of digits of a number.
+Write a program to find the LCM of two numbers.
+Write a program to find the GCD of two numbers.
+Write a program to convert decimal to binary.
+Write a program to convert binary to decimal.
+Write a program to find the square root of a number.
+Write a program to find the area of a circle.
+Write a program to find the volume of a sphere.
+Write a program to find the factors of a number.
+Write a program to find the ASCII value of a character.
+Write a program to check if a number is a perfect number.
+Write a program to check if a number is an Armstrong number.
+Write a program to find the sum of natural numbers using recursion.
+Write a program to find the HCF of two numbers.
+Write a program to find the roots of a quadratic equation.
+Write a program to print the Pascal's triangle.
+Write a program to find the area of a triangle.
+Write a program to find the area of a rectangle.
+Write a program to find the area of a square.
+Write a program to find the area of a parallelogram.
+Write a program to find the area of a trapezoid.
+Write a program to find the area of a rhombus.
+Write a program to find the area of a kite.
+Write a program to find the perimeter of a triangle.
+Write a program to find the perimeter of a rectangle.
+Write a program to find the perimeter of a square.
+Write a program to find the perimeter of a parallelogram.
+Write a program to find the perimeter of a trapezoid.
+Write a program to find the perimeter of a rhombus.
+Write a program to find the perimeter of a kite.
+Write a program to check if a number is a Harshad number.
+Write a program to find the sum of digits of a number using recursion.
+Write a program to find the Armstrong numbers in a given range.
+Write a program to find the prime numbers in a given range.
+Write a program to check if a string is a pangram.
+Write a program to sort a list of numbers.
+Write a program to reverse a list.
+Write a program to find the union of two lists.
+Write a program to find the intersection of two lists.
+Write a program to remove duplicates from a list.
+Write a program to count the occurrences of an element in a list.
+Write a program to find the factorial of a number using a loop.
+Write a program to find the number of words in a string.
+Write a program to check if a string is a palindrome using recursion.
+Write a program to find the sum of elements in a list.
+Write a program to find the average of elements in a list.
+Write a program to find the largest element in a list.
+Write a program to find the smallest element in a list.
+Write a program to check if two strings are anagrams using collections.Counter.
+Write a program to check if a string is a valid palindrome ignoring non-alphanumeric characters.
+Write a program to convert a list of strings to a single string.
+Write a program to find the second largest element in a list.
+Write a program to find the second smallest element in a list.
+Write a program to find the frequency of each element in a list.
+Write a program to find the median of a list of numbers.
+Write a program to find the mode of a list of numbers.
+Write a program to find the index of an element in a list.
+Write a program to find the last occurrence of an element in a list.
+Write a program to find the first non-repeating character in a string.
+Write a program to check if a number is a power of two.
+Write a program to find the number of digits in a number.
+Write a program to find the sum of digits of a number until it becomes a single-digit number.
+Write a program to check if a number is a palindrome in both decimal and binary.
+Write a program to find the intersection of two arrays.
+Write a program to find the union of two arrays.
+Write a program to check if a number is a happy number.
+Write a program to check if a string contains only digits.
+Write a program to find the next prime number after a given number.
+Write a program to convert a decimal number to any base.
+Write a program to convert a number from any base to decimal.
+Write a program to convert a decimal number to hexadecimal.
+Write a program to convert a decimal number to octal.
+Write a program to convert a decimal number to binary using recursion.
+Write a program to check if a string is a valid email address.
+Write a program to check if a string is a valid URL.
+Write a program to generate a random number between a given range.
+Write a program to generate a random password.
+Write a program to check if a number is a palindrome using a while loop.
+Write a program to check if a number is an automorphic number.
+Write a program to check if a number is a neon number.
+Write a program to check if a number is a spy number.
